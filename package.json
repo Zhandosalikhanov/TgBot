@@ -1,0 +1,15 @@
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "My first attempt to create a Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Zhandosalikhanov"
+  },
+  "author": "Zhandos Alikhanov",
+  "license": "ISC"
+}
